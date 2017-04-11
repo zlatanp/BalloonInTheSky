@@ -5,7 +5,7 @@ Simple mobile game.
 Ballon goes in the sky, and you need to collect much more coins as you can.
 
 ## Platforms
-Now game is for mobile platforms (Android, iOs).
+Game is for mobile platforms (Android, iOs).
 
 ## Technology
 Unity with custom created level backgrounds in Adobe Photoshop, and used assets from Unity Store for coins.
