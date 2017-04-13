@@ -13,7 +13,7 @@ public class CameraScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (igrac.transform.position.y < 105) {
+		if (igrac.transform.position.y < 118) {
 			transform.position = new Vector3 (x, igrac.transform.position.y + 3, -1.5f);
 		}
 	}
